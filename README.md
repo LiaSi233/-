@@ -82,16 +82,6 @@ print(tokenizer.decode(outputs[0], skip_special_tokens=True))
 - [ ] 接入 Web 界面（Gradio / Streamlit）  
 - [ ] 增加安全知识问答评估指标（BLEU / ROUGE）
 
----
-
-## 📄 作者
-
-**廖思源**  
-- GitHub：[LiaSi233](https://github.com/LiaSi233)  
-- 广东财贸职业学院 · 信息安全应用技术专业（2026届）  
-- 中兴通讯股份有限公司 · 工程化基建实习（2022.08-2023.01）
-
----
 
 ## 📜 致谢
 
